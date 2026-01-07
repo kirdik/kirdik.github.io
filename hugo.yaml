@@ -1,5 +1,5 @@
-baseURL: "https://kirdik.github.io/arch"
-title: "Мой новый сайт"
+baseURL: "https://kirdik.github.io"
+title: "Записки архивариуса"
 theme: "PaperMod"
 
 languageCode: "ru-ru"
