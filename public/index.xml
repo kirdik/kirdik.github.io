@@ -6,41 +6,34 @@
     <description>Recent content on Записки архивариуса</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Jan 2026 02:28:38 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 18:03:35 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gallery-test</title>
-      <link>http://localhost:1313/folklore/gallery-test/</link>
-      <pubDate>Fri, 09 Jan 2026 02:28:38 +0300</pubDate>
-      <guid>http://localhost:1313/folklore/gallery-test/</guid>
-      <description>&lt;!-- Текст статьи начинается здесь.
-Картинки можно просто перетаскивать в эту папку. --&gt;
-&lt;div class=&#34;gallery&#34;&gt;
-  &lt;img alt=&#34;проба раз&#34; loading=&#34;lazy&#34; src=&#34;1764110260722-3e5jvr2zwee.png&#34;&gt;
-&lt;img alt=&#34;проба три&#34; loading=&#34;lazy&#34; src=&#34;photo_2024-09-18_20-11-32.jpg&#34;&gt;
-&lt;img alt=&#34;тест&#34; loading=&#34;lazy&#34; src=&#34;bfa9fd33c341fae037396f4c1cbc5c92_1764109705_0b4904sn.png&#34;&gt;
-&lt;img alt=&#34;тест 5&#34; loading=&#34;lazy&#34; src=&#34;1764109498125-am7j7ovmq8.png&#34;&gt;
-&lt;/div&gt;</description>
+      <title>Архивотерапия</title>
+      <link>http://localhost:1313/folklore/therapy/</link>
+      <pubDate>Sat, 10 Jan 2026 18:03:35 +0300</pubDate>
+      <guid>http://localhost:1313/folklore/therapy/</guid>
+      <description>Этот текст написан для того, что бы его отправлять в случае необходимости в качестве ответа на очередной призыв спасать фольклор. Вдохновил меня на это Сергей Николаевич Старостин, а идея была позаимствована у хорошего аналогичного текста НЕПРИВЕТ. Ознакомьтесь на досуге и с ним тоже. Не помешает.</description>
     </item>
     <item>
       <title>Зачем указывать паспорт записи в публикации?</title>
-      <link>http://localhost:1313/archives/pasport-of-record/</link>
+      <link>http://localhost:1313/folklore/pasport-of-record/</link>
       <pubDate>Thu, 08 Jan 2026 18:29:09 +0300</pubDate>
-      <guid>http://localhost:1313/archives/pasport-of-record/</guid>
+      <guid>http://localhost:1313/folklore/pasport-of-record/</guid>
       <description>В тексте рассматривается необходимость указания паспорта фольклорной записи в научных и популярно-научных публикациях. Паспорт понимается как средство точной идентификации материала, позволяющее установить место, время и условия фиксации, а также сведения об исполнителе и собирателе. Особое внимание уделяется минимальному набору обязательных данных: населённому пункту, дате записи, имени записавшего, названию фрагмента и информации об информанте. При наличии рекомендуется дополнять паспорт биографическими и архивными сведениями. Подчёркивается, что включение таких данных обеспечивает научную достоверность, воспроизводимость исследований и уважительное отношение к носителям традиции и архивным источникам.</description>
     </item>
     <item>
       <title>Список фольклорных архивов</title>
-      <link>http://localhost:1313/archives/archives-list/</link>
+      <link>http://localhost:1313/folklore/archives-list/</link>
       <pubDate>Thu, 08 Jan 2026 00:59:32 +0300</pubDate>
-      <guid>http://localhost:1313/archives/archives-list/</guid>
+      <guid>http://localhost:1313/folklore/archives-list/</guid>
       <description>Список известных фольклорных архивов этномузыкологического и филологического направления доступных в сети.</description>
     </item>
     <item>
       <title>E.В.Гиппиус и проблема каталогизации народных мелодий</title>
-      <link>http://localhost:1313/archives/hippius-catalogisation/</link>
+      <link>http://localhost:1313/folklore/hippius-catalogisation/</link>
       <pubDate>Thu, 08 Jan 2026 00:33:43 +0300</pubDate>
-      <guid>http://localhost:1313/archives/hippius-catalogisation/</guid>
+      <guid>http://localhost:1313/folklore/hippius-catalogisation/</guid>
       <description>Автор рассматривает отношение известного этномузыковеда Евгения Владимировича Гиппиуса к задаче каталогизации народных мелодий на протяжении его научной карьеры. Показано, что ещё в 1920-е гг. Гиппиус сталкивался с картотеками мелодий, но научно-теоретический интерес его всегда был направлен скорее на интерпретацию музыкальных явлений, чем на систематизацию фактов. Лишь в 1970–80-е гг., возглавляя Фольклорную комиссию, он столкнулся с необходимостью упорядочения больших фондов нотаций и изложил свои взгляды в статье «Общетеоретический взгляд на проблему каталогизации народных мелодий». Его подход подчёркивает сложность создания работающей системы каталогизации и предлагает глубокие, но теоретически насыщенные принципы анализа мелодий, которые трудно соединить с практической каталогизацией.</description>
     </item>
     <item>
@@ -52,9 +45,9 @@
     </item>
     <item>
       <title>Карта экспедиций Александра Михайловича Листопадова</title>
-      <link>http://localhost:1313/archives/listopadov-map/</link>
+      <link>http://localhost:1313/folklore/listopadov-map/</link>
       <pubDate>Wed, 07 Jan 2026 22:40:27 +0300</pubDate>
-      <guid>http://localhost:1313/archives/listopadov-map/</guid>
+      <guid>http://localhost:1313/folklore/listopadov-map/</guid>
       <description>Статья посвящена опыту создания интерактивной онлайн-карты экспедиций А. М. Листопадова на основании данных, доступных в пятитомнике «Песни донских казаков». Описан процесс разработки, проблемы, возникшие в ходе работы, и способы их решения.</description>
     </item>
     <item>

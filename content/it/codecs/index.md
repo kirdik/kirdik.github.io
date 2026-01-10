@@ -3,9 +3,12 @@
 title: "Кодеки сжатия аудио без потерь (lossless)"
 date: 2026-01-08T00:15:57+03:00
 draft: false
+pinned: true
 
 author: "Кирилл В. Чеботарёв"
 tags: ["кодеки", "звук", "mp3", "flac", "wav"]
+categories:
+ - Звук
 
 description: "Небольшой ликбез по аудио кодекам. Как работают кодеки которые не вносят изменения в звук, но уменьшают размер файла."
 canonicalURL: "https://arch.folkcentr.ru/all/kodeki-szhatiya-audio-bez-poter-lossless/"
@@ -32,7 +35,7 @@ cover:
   alt: ""
   caption: ""
   relative: true
-  hidden: true
+  hidden: false
 ---
 
 <!-- Текст статьи начинается здесь.

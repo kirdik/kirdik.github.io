@@ -24,7 +24,11 @@ params:
     subtitle: "Записки о фольклоре, архивах и сопутствующих технологиях."
     imageUrl: "/userpic-round@2x.jpg"  # положите файл в static/logo.png
     imageTitle: ":-)"
-
+  mainSections:
+    - folklore
+    - it
+    - whater
+  ShowPostMeta: true
 
     
   # Настройки социальных иконок (по желанию)
@@ -44,33 +48,33 @@ pagination:
 
 # Меню
 menu:
-  main:
+  main: 
     - identifier: "folklore"
       name: "Фольклор"
       url: "/folklore/"
-      weight: 20 
-    - identifier: "archives"
-      name: "Архив"
-      url: "/archives/"
-      weight: 10
-    - identifier: "sound"
-      name: ""
-      url: "/sound/"
-      weight: 30
+      weight: 10 
     - identifier: "it"
       name: "Технология"
       url: "/it/"
-      weight: 40
+      weight: 20
+    - identifier: "whater"
+      name: "Вода"
+      url: "/whater/"
+      weight: 30
     - identifier: "tags"
       name: "Теги"
       url: "/tags/"
-      weight: 50
+      weight: 40
     - identifier: "search"
       name: "Поиск"
       url: "/search/"
+      weight: 50
+    - identifier: "archives"
+      name: "Всё"
+      url: "/archives/"
       weight: 60
     - identifier: "about"
-      name: "About"
+      name: "@Я"
       url: "/about/"
       weight: 70
    
