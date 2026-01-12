@@ -28,7 +28,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 
 cover:
-  image: "LobanovMA.webp"
+  image: "Lobanov-AI.webp"
   alt: "Лобанов Михаил Александрович"
   caption: "Лобанов Михаил Александрович"
   relative: true
