@@ -1,0 +1,48 @@
+# --- Hugo Specific ---
+# Папка с готовым сайтом (генерируется автоматически)
+public/
+
+# Временная папка ресурсов (кэш обработанных фото, стилей и т.д.)
+resources/_gen/
+
+# Файл блокировки процесса сборки
+.hugo_build.lock
+
+# Статистика для PostCSS/PurgeCSS (если используете)
+hugo_stats.json
+
+# --- Dependencies ---
+# Если используете npm/yarn для стилей или скриптов
+node_modules/
+.pnp
+.pnp.js
+
+# --- OS Specific ---
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini
+
+# --- IDE/Editors ---
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains (IntelliJ, WebStorm и др.)
+.idea/
+
+# --- Logs ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
