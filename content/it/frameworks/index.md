@@ -11,23 +11,6 @@ categories: ["Автоматизация"]
 description: ""
 canonicalURL: ""
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""

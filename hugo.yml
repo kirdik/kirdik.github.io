@@ -1,0 +1,102 @@
+baseURL: "https://kirdik.github.io/"
+title: "Записки архивариуса"
+theme: "PaperMod"
+enableRobotsTXT: true
+languageCode: "ru-ru"
+defaultContentLanguage: "ru"
+
+# Пагинация задаётся на верхнем уровне
+pagination:
+  pagerSize: 10
+
+# Основные разделы, попадающие в ленты и списки
+mainSections:
+  - folklore
+  - it
+  - water # или whater, если папка называется именно так
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # Необходим для работы поиска PaperMod (FastSearch)
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Разрешает inline HTML в Markdown
+
+params:
+  # Профиль на главной странице
+  profileMode:
+    enabled: true
+    title: "Кирилл В. Чеботарёв"
+    subtitle: "Записки о фольклоре, архивах и сопутствующих технологиях."
+    imageUrl: "/userpic-round@2x.jpg" # Файл лежит в static/userpic-round@2x.jpg
+    imageTitle: ":-)"
+
+  # Авторство
+  author:
+    name: "Кирилл В. Чеботарёв"
+    email: "kirill.chebotarev@gmail.com"
+    link: "https://kirdik.github.io"
+
+  # Метаданные и информационные блоки статей (применяются ко всем постам)
+  ShowPostMeta: true
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
+
+  # Настройки оглавления по умолчанию
+  ShowToc: false        # Включить глобально или оставить false и включать только в длинных лонгридах
+  TocOpen: false        # Если TOC включён, держать свёрнутым
+  UseHugoToc: true      # Использовать встроенный генератор оглавления Hugo
+
+  # Поведение кода и шаринга
+  disableHLJS: false
+  disableShare: false
+
+  # Социальные ссылки
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/kirdik"
+    - name: "vk"
+      url: "https://vk.com/kirill.chebotarev"
+    - name: "telegram"
+      url: "https://t.me/folkarchiv"
+    - name: "youtube"
+      url: "https://www.youtube.com/@kircheba"
+
+# Верхнее меню навигации
+menu:
+  main:
+    - identifier: "folklore"
+      name: "Фольклор"
+      url: "/folklore/"
+      weight: 10
+    - identifier: "it"
+      name: "Техничка"
+      url: "/it/"
+      weight: 20
+    # - identifier: "water"
+    #   name: "Вода"
+    #   url: "/water/"
+    #   weight: 30
+    - identifier: "tags"
+      name: "Теги"
+      url: "/tags/"
+      weight: 40
+    - identifier: "search"
+      name: "Поиск"
+      url: "/search/"
+      weight: 50
+    - identifier: "archives"
+      name: "Всё"
+      url: "/archives/"
+      weight: 60
+    - identifier: "about"
+      name: "@Я"
+      url: "/about/"
+      weight: 70

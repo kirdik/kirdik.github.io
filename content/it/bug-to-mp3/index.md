@@ -11,23 +11,6 @@ categories: ["Звук"]
 description: "Поллема с отображением времени в mp3"
 canonicalURL: "https://arch.folkcentr.ru/all/problema-s-otobrazheniem-vremeni-v-staryh-mp3-faylah/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""

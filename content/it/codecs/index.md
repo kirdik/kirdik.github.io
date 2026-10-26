@@ -12,23 +12,6 @@ categories: ["Звук", "Ликбез"]
 description: "Небольшой ликбез по аудио кодекам. Как работают кодеки которые не вносят изменения в звук, но уменьшают размер файла."
 canonicalURL: "https://arch.folkcentr.ru/all/kodeki-szhatiya-audio-bez-poter-lossless/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""

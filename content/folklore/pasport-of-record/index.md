@@ -11,29 +11,13 @@ categories: ["Архив", "Ликбез"]
 description: "В тексте рассматривается необходимость указания паспорта фольклорной записи в научных и популярно-научных публикациях. Паспорт понимается как средство точной идентификации материала, позволяющее установить место, время и условия фиксации, а также сведения об исполнителе и собирателе. Особое внимание уделяется минимальному набору обязательных данных: населённому пункту, дате записи, имени записавшего, названию фрагмента и информации об информанте. При наличии рекомендуется дополнять паспорт биографическими и архивными сведениями. Подчёркивается, что включение таких данных обеспечивает научную достоверность, воспроизводимость исследований и уважительное отношение к носителям традиции и архивным источникам."
 canonicalURL: "https://arch.folkcentr.ru/all/zachem-ukazyvat-pasport-zapisi-v-publikacii/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "nivezha.webp"
   alt: "Скриншот некогда скандально известного сайта «Нивежа»"
   caption: "Скриншот некогда скандально известного сайта «Нивежа»"
   relative: true
   hidden: false
+ShowToc: true
 ---
 
 <!-- Текст статьи начинается здесь.

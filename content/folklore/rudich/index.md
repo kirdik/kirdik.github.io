@@ -12,23 +12,6 @@ description: "Вместо некролога о большом человеке
 Очерк — моя личная история и дань памяти **Татьяне Семеновне Рудиченко**, человеку, который стал для меня не просто выдающимся ученым, но и близким по духу наставником. Я хочу рассказать о ней не через сухие факты из Википедии, а через живые воспоминания о нашей многолетней дружбе и её безграничной преданности подлинной казачьей культуре."
 canonicalURL: ""
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""

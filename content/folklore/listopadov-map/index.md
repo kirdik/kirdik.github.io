@@ -11,16 +11,7 @@ hidemeta: false
 comments: false
 description: "Статья посвящена опыту создания интерактивной онлайн-карты экспедиций А. М. Листопадова на основании данных, доступных в пятитомнике «Песни донских казаков». Описан процесс разработки, проблемы, возникшие в ходе работы, и способы их решения."
 canonicalURL: "https://arch.folkcentr.ru/all/karta-ekspediciy-aleksandra-mihaylovicha-listopadova/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+
 cover:
     image: "Listopadov-map.webp" 
     alt: "" 
@@ -45,4 +36,3 @@ A. M. Listopadov’s expedition map*
 **Key words:** s*ong tradition of the Don Cossacks, Alexander Mikhailovich Listopadov, mapping, development, programming, data-bases.*
 
 [Скачать PDF](ChebotarevKV_Listopadov_map.pdf)
-

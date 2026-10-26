@@ -11,23 +11,6 @@ categories: ["Звук", "Пособия"]
 description: ""
 canonicalURL: "https://arch.folkcentr.ru/all/eremin-l-v-ocifrovka-i-restavraciya-zvuka/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""

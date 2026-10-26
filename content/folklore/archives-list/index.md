@@ -11,23 +11,6 @@ tags: ["каталогизация"]
 description: "Список известных фольклорных архивов этномузыкологического и филологического направления доступных в сети."
 canonicalURL: "https://arch.folkcentr.ru/all/spisok-folklornyh-arhivov/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "EVGippius_ZIEvald.webp"
   alt: "Е.В. Гиппиус З.В. Эвальд"

@@ -11,29 +11,13 @@ categories: ["Архив"]
 description: "Для корректной паспортизации фольклорных записей следует использовать устойчивую иерархию административно-территориального деления (регион, район, населенный пункт), избегая изменчивых категорий сельских и городских поселений. Приоритет отдается стабильным границам и точной геолокации, что позволяет исключить путаницу при совпадении названий деревень и изменениях в муниципальном устройстве."
 canonicalURL: ""
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""
   caption: ""
   relative: true
   hidden: false
+ShowToc: false
 ---
 
 <!-- Текст статьи начинается здесь.
