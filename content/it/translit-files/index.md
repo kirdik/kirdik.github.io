@@ -1,4 +1,3 @@
-
 ---
 title: "Скрипт рекурсивного переименования файлов в транслит"
 date: 2026-01-13T00:39:51+03:00
@@ -11,23 +10,6 @@ categories: ["Автоматизация"]
 description: "Как переименовать много файлов в транслит"
 canonicalURL: "https://arch.folkcentr.ru/all/skript-rekursivnogo-pereimenovaniya-faylov-v-translit/"
 
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
 cover:
   image: "cover.webp"
   alt: ""
@@ -35,9 +17,6 @@ cover:
   relative: true
   hidden: false
 ---
-
-<!-- Текст статьи начинается здесь.
-Картинки можно просто перетаскивать в эту папку. -->
 Иногда нужно переименовать большое количество файлов из кириллицы в транслит  
 Любимая_песня_мамы.mp3 —> Lubimaja_pesnia_mami.mp3  
 В контексте работы с архивом именование файлов латиницей очень важно по нескольким причинам.

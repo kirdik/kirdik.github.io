@@ -32,3 +32,10 @@
   opacity: 0.6;
   margin-left: 0.25rem;
 }
+/* Снимаем ограничение по строкам для аннотации в карточке */
+.post-entry .entry-content {
+    -webkit-line-clamp: unset !important;
+    -webkit-box-orient: unset !important;
+    display: block !important;
+    overflow: visible !important;
+}

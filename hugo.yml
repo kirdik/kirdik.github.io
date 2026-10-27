@@ -2,8 +2,9 @@ baseURL: "https://kirdik.github.io/"
 title: "Записки архивариуса"
 theme: "PaperMod"
 enableRobotsTXT: true
-languageCode: "ru-ru"
+locale: "ru_RU"
 defaultContentLanguage: "ru"
+summaryLength: 350
 
 # Пагинация задаётся на верхнем уровне
 pagination:
