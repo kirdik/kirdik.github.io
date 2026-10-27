@@ -38,7 +38,7 @@ cover:
 Глупо писать регалии и достижения, все это есть в [Википедии](https://clck.ru/3RZPPg) , хочется расказать о человеке которого я знал.  
 С Татьяной Семеновной я познакомился в 2007 году, на фестивале «Камышинка» который проходил в станице Берёзовской Волгоградской области. Мы ехали туда втроём с Мишей Масловским и Таней Бодуновой на моём стареньком Пассате буквально продираясь сквозь степи и пески, поскольку решили срезать дорогу по грунтовке между областями. Камышинка к тому времени уже превратилась из фестиваля в летний лагерь с мастер-классами где преподавали все гуру казачьего фольклора. С большей их частью мы были так или иначе знакомы, а вот имя Татьяны Семёновны в списке преподавателей было неожиданно и после недолгих обсуждений и мы все записались в ее группу. В ту пору мы еще были участниками клуба [«Белый камень»](https://vk.com/club_bely_kamen) , изучали как и многие Верхний Дон. Про Татьяну Семёновну знали только то, что она специализируется по Нижнему Дону и повторила экспедиционный путь [А. М. Листопадова](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%B4%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87). Собственно именно это породило некоторые сомнения, мол зачем нам низовые песни, мы же Верх поём. Так или иначе, но в итоге все поддержали мое предложение, о чем конечно же никто потом не пожалел.
 
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239034&hash=ca22b8b0e3b47152&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239034&hash=ca22b8b0e3b47152&hd=3" width="720" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 *Наше финальное выступление в Березовской. Татьяна Семёновна комментирует песни.*  
 *Хитом нашей программы была женская песня «Озера озеры». Пели только девочки. Это было настолько женственно, что весь без исключения мужской состав на репетициях млел и требовал повторения.*
@@ -53,7 +53,7 @@ cover:
 _— Что это такое? На праздник в таком затрапезном виде?_  
 Отношение было родственное. Это самое важное. Мы были для неё своими.  
 Татьяна Семеновна сама прекрасно пела, в молодости у нее был казачий ансамбль «Лествица», о котором как-то мало известно в столицах, а жаль. Записи его есть и я постараюсь их найти и выложить.
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-204206237&id=456239176&hash=4daae7d8089a2465&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-204206237&id=456239176&hash=4daae7d8089a2465&hd=3" width="720" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 
 *Фольклорный ансамбль Татьяны Рудиченко «Лествица»*
@@ -63,15 +63,15 @@ _— Что это такое? На праздник в таком затра�
 
 Мое несостоявшееся с ней интервью для «Люди Ф», конечно самая большая печаль. Хотя идея возникла еще задолго до того, как начали снимать проект и конечно это была первая из кандидатур. Оставалось только доехать до Ростова на Дону. Не случилось.
 
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239032&hash=47ac701a056d793f&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239032&hash=47ac701a056d793f&hd=3" width="720" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 *Интервью Олегу Гапонову о фестивале «Шермиции» Часть первая.*
 
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239033&hash=501a1694f585d491&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239033&hash=501a1694f585d491&hd=3" width="720" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 *Интервью Олегу Гапонову о фестивале «Шермиции» Часть вторая.*
 
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239030&hash=953002f017b7e6eb&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-16974484&id=456239030&hash=953002f017b7e6eb&hd=3" width="720" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 *Интервью Саше Гугуеву о фильме «Тихий Дон» режиссера Урсуляка С.В.*
 
