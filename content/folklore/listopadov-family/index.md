@@ -11,7 +11,7 @@ description: "Статья написана на основе малоизвес
 canonicalURL: ""
 
 cover:
-  image: ""
+  image: "family_list.webp"
   alt: "."
   caption: ""
   relative: true
